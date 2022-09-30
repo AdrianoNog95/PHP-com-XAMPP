@@ -1,0 +1,51 @@
+* {
+	font-family: sans-serif;
+	margin: 0;
+	
+}
+
+table, th, td {
+		border: 2px solid black;
+	
+}
+
+th, td {
+	padding: 5px;
+	
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+fieldset {
+	border-radius: 12px;
+}
+
+input {
+	margin-bottom: 6px;
+}
+
+.botaoSubmit {
+	margin-bottom: 6px;
+}
+
+#alterar {
+	background-color: orange;
+}
+
+#excluir{
+	background-color: red;
+}
+
+.botaoAcoes{
+	color: white;
+	text-decoration: none;
+}
+
+	
+	
